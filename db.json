@@ -51,7 +51,7 @@
 		{
 			"Name": "Google",
 			"type": "not known",
-			"mode": "online",
+			"mode": "offline",
 			"Email": "test@google.com",
 			"Organization": "google",
 			"Expiry_Date": "31 Dec 2025",
