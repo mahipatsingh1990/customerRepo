@@ -38,5 +38,25 @@
       "id":4,
       "addresses":["Arah","Dhanbad","Bangalore"]
     }
+  ],
+  "licenses": [
+    {
+      "Name": 'Microsoft',
+      "type": 'not known',
+      "mode": 'online',
+      "Email": 'test@miscrosoft.com',
+      "Organization": 'Miscrosoft',
+      "Expiry Date": "31 Dec 2025",
+      "status": "Expired"
+    },
+    {
+      "Name": 'Google',
+      "type": 'not known',
+      "mode": 'online',
+      "Email": 'test@google.com',
+      "Organization": 'google',
+      "Expiry Date": "31 Dec 2025",
+      "status": "Expired"
+    },
   ]
 }
