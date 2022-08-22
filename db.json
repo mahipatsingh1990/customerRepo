@@ -40,21 +40,21 @@
     }
   ],
  "licenses": [{
-			"Name": "Microsoft",
+			"name": "Microsoft",
 			"type": "not known",
 			"mode": "online",
-			"Email": "test@miscrosoft.com",
-			"Organization": "Miscrosoft",
-			"Expiry_Date": "31 Dec 2025",
+			"email": "test@miscrosoft.com",
+			"organization": "Miscrosoft",
+			"expiry_Date": "31 Dec 2025",
 			"status": "Expired"
 		},
 		{
-			"Name": "Google",
+			"name": "Google",
 			"type": "not known",
 			"mode": "offline",
-			"Email": "test@google.com",
-			"Organization": "google",
-			"Expiry_Date": "31 Dec 2025",
+			"email": "test@google.com",
+			"organization": "google",
+			"expiry_Date": "31 Dec 2025",
 			"status": "Expired"
 		}
 	]
